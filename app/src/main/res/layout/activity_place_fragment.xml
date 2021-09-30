@@ -1,6 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:background="#EBF5FB"
+    tools:context=".PlaceFragment">
 
-</androidx.constraintlayout.widget.ConstraintLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="#EBF5FB"
+        android:id="@+id/button_part"
+        >
+
+        <Button
+            android:id="@+id/firstFragment"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:text="List View"
+            android:textSize="15sp"
+            android:background="#85C1E9"
+            android:layout_margin="8dp"
+            android:layout_weight="1"
+            android:textColor="#1B4F72"/>
+
+        <Button
+            android:id="@+id/secondFragment"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_weight="1"
+            android:text="Map View"
+            android:textSize="15sp"
+            android:background="#85C1E9"
+            android:layout_margin="8dp"
+            android:textColor="#1B4F72"
+            />
+
+
+
+    </LinearLayout>
+
+    <FrameLayout
+        android:id="@+id/frameLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+       ></FrameLayout>
+
+</LinearLayout>

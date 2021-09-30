@@ -71,7 +71,7 @@
         android:layout_marginRight="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="20dp"
-        android:text="Authentication_failed"
+        android:text="@string/authentication_failed"
         android:textColor="@color/colorWhite"
         android:visibility="invisible"
         app:layout_constraintEnd_toEndOf="parent"
