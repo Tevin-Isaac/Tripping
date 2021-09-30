@@ -1,5 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_navigation_drawer.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_place_details.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_place_fragment.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_places.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_plan_details.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_plan_page.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/addplans_dialog.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/app_bar_navigation_drawer.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/collab_adder.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/content_navigation_drawer.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/date_layout.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/nav_header_navigation_drawer.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/place_card.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/place_list_iem.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/places_list_tab.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/places_map_tab.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/plan_card.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/time_layout.xml" value="0.1" />
+        <entry key="app/src/main/res/menu/activity_navigation_drawer_drawer.xml" value="0.1" />
+        <entry key="app/src/main/res/menu/menu.xml" value="0.1" />
+        <entry key="app/src/main/res/menu/menu1.xml" value="0.1" />
+        <entry key="app/src/main/res/menu/menu_places_list.xml" value="0.1" />
+        <entry key="app/src/main/res/menu/navigation_drawer.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
