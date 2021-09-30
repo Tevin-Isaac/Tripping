@@ -60,6 +60,7 @@ dependencies {
     implementation 'com.android.volley:volley:1.2.1'
     implementation 'com.github.niwattep:material-slide-date-picker:v2.0.0'
     implementation 'com.vivekkaushik.datepicker:datePickerTimeline:0.0.4'
+    implementation 'com.airbnb.android:lottie:4.1.0'
 
 
 }
