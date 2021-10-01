@@ -1,5 +1,5 @@
 ## TRIPPING
-This is an Android Application where a user can search for places to Explore with google maps.
+Tripping  is an Android Application where a user can search for places to Explore with google maps.
 The User can be able to locate a specific location they want to Explore.Google Maps makes it easy for
  them to track the destination in where they want to view or make a trip.
 
