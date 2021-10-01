@@ -14,6 +14,12 @@ JAVA
 * Generate your own personal google API with Google Cloud Platform
 * Set restrictions on your API and enable it to search for Maps and Places
 
+## Database and API login App screenshots
+![Screenshot from 2021-10-01 11-28-48 (1)](https://user-images.githubusercontent.com/81568615/135590049-c718ce82-df78-4423-8d42-45224741d26c.png
+![Screenshot from 2021-10-01 11-28-54](https://user-images.githubusercontent.com/81568615/135590075-eef7bd67-3df4-4a96-aeb6-e15fbcc653d5.png)
+)
+
+
 ## Known Bugs
 There might be errors in layout files but the app will still run.
 
