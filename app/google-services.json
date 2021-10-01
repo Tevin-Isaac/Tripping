@@ -1,13 +1,14 @@
 {
   "project_info": {
     "project_number": "798064407599",
+    "firebase_url": "https://tripping-ca467-default-rtdb.firebaseio.com",
     "project_id": "tripping-ca467",
     "storage_bucket": "tripping-ca467.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:798064407599:android:c5aa265394fe96f0a642da",
+        "mobilesdk_app_id": "1:798064407599:android:deb12272695a0f9ca642da",
         "android_client_info": {
           "package_name": "com.tev.tripping"
         }

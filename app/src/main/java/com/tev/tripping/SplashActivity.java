@@ -10,6 +10,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import com.airbnb.lottie.LottieAnimationView;
 
+
 public class SplashActivity extends AppCompatActivity {
 
     LottieAnimationView lottie;
@@ -35,6 +36,6 @@ public class SplashActivity extends AppCompatActivity {
                 finish();
                 //the current activity will get finished.
             }
-        }, 5000);
+        }, 3000);
     }
 }

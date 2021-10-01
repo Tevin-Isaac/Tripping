@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_find_trip"
+        android:icon="@drawable/ic_map_black_24dp"
+        android:title="@string/title_findTrip" />
+
+    <item
+        android:id="@+id/navigation_my_trip"
+        android:icon="@drawable/ic_time_to_leave_black_24dp"
+        android:title="@string/title_MyTrip" />
+
+    <item
+        android:id="@+id/navigation_settings"
+        android:icon="@drawable/ic_settings_black_24dp"
+        android:title="@string/title_settings" />
+
+</menu>
