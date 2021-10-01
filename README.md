@@ -24,7 +24,7 @@ JAVA
 
 
 ## Known Bugs
-There might be errors in layout files but the app will still run.
+There might be errors in layout files but the app will still run Depending on the layout file.
 
 ## Copyright
 Tevin Isaac
