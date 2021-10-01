@@ -3,33 +3,55 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.14114583333333333" />
         <entry key="app/src/main/res/drawable/android_gradient_list.xml" value="0.1015625" />
+        <entry key="app/src/main/res/drawable/ic_email_black_24dp.xml" value="0.14114583333333333" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.14114583333333333" />
+        <entry key="app/src/main/res/drawable/ic_lock_black_24dp.xml" value="0.14114583333333333" />
+        <entry key="app/src/main/res/drawable/ic_person_black_24dp.xml" value="0.14114583333333333" />
+        <entry key="app/src/main/res/drawable/ic_time_to_leave_black_24dp.xml" value="0.14114583333333333" />
+        <entry key="app/src/main/res/layout/acivity_main.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_home.xml" value="0.18" />
-        <entry key="app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.14" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_maps.xml" value="0.2" />
         <entry key="app/src/main/res/layout/activity_navigation_drawer.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_place_details.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_place_fragment.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_places.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_plan_details.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_plan_page.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_profile.xml" value="0.115625" />
+        <entry key="app/src/main/res/layout/activity_signup.xml" value="0.14" />
         <entry key="app/src/main/res/layout/activity_splash.xml" value="0.1" />
         <entry key="app/src/main/res/layout/addplans_dialog.xml" value="0.1" />
         <entry key="app/src/main/res/layout/app_bar_navigation_drawer.xml" value="0.1" />
         <entry key="app/src/main/res/layout/collab_adder.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/content_main.xml" value="0.125" />
         <entry key="app/src/main/res/layout/content_navigation_drawer.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/dashboard.xml" value="0.16" />
         <entry key="app/src/main/res/layout/date_layout.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_display_helper_map.xml" value="0.125" />
+        <entry key="app/src/main/res/layout/fragment_display_list.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_display_map.xml" value="0.125" />
+        <entry key="app/src/main/res/layout/fragment_find_trip.xml" value="0.125" />
+        <entry key="app/src/main/res/layout/fragment_my_trip.xml" value="0.125" />
+        <entry key="app/src/main/res/layout/fragment_settings.xml" value="0.16" />
         <entry key="app/src/main/res/layout/nav_header_navigation_drawer.xml" value="0.1" />
         <entry key="app/src/main/res/layout/place_card.xml" value="0.1" />
         <entry key="app/src/main/res/layout/place_list_iem.xml" value="0.1" />
         <entry key="app/src/main/res/layout/places_list_tab.xml" value="0.1" />
         <entry key="app/src/main/res/layout/places_map_tab.xml" value="0.1" />
         <entry key="app/src/main/res/layout/plan_card.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/row_item.xml" value="0.25" />
         <entry key="app/src/main/res/layout/time_layout.xml" value="0.1" />
         <entry key="app/src/main/res/menu/activity_navigation_drawer_drawer.xml" value="0.1" />
+        <entry key="app/src/main/res/menu/bottom_nav_menu.xml" value="0.1" />
         <entry key="app/src/main/res/menu/menu.xml" value="0.1" />
         <entry key="app/src/main/res/menu/menu1.xml" value="0.1" />
         <entry key="app/src/main/res/menu/menu_places_list.xml" value="0.1" />
         <entry key="app/src/main/res/menu/navigation_drawer.xml" value="0.1" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.14114583333333333" />
       </map>
     </option>
   </component>

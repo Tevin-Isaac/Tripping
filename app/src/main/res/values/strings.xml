@@ -1,19 +1,10 @@
 <resources>
-    <string name="app_name">TripMate</string>
-    <string name="app_tagline">Explore, Plan and Travel</string>
-    <string name="google_login">LOGIN WITH GOOGLE</string>
-    <string name="oath_client_id">676578087984-p4jdgflacn627icajr7r7a2nmobdv5kr.apps.googleusercontent.com</string>
-    <string name="authentication_failed">Authentication Failed.</string>
-    <string name="title_activity_places">Places</string>
-    <string name="tab_text_1">List</string>
-    <string name="tab_text_2">Map</string>
-    <string name="action_settings">Settings</string>
-    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="app_name">Tripping</string>
+    <string name="title_findTrip">FindTrip</string>
+    <string name="title_MyTrip">MyTrip</string>
+    <string name="title_settings">Settings</string>
 
-    <string name="title_activity_navigation_drawer">NavigationDrawer</string>
-    <string name="navigation_drawer_open">Open navigation drawer</string>
-    <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="nav_header_title">Android Studio</string>
-    <string name="nav_header_subtitle">android.studio@android.com</string>
-    <string name="nav_header_desc">Navigation header</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="appbar_scrolling_view_behavior" />
 </resources>
