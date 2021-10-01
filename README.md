@@ -17,14 +17,14 @@ JAVA
 ## Firebase Database Screenshot
 ![Screenshot from 2021-10-01 11-28-54](https://user-images.githubusercontent.com/81568615/135590665-2fefb218-aab4-42d1-b32f-877a2671ff10.png)
 
-## API Screenshot
+## API Key Screenshot
 ![Screenshot from 2021-10-01 11-28-48 (1)](https://user-images.githubusercontent.com/81568615/135590766-8482e901-773e-413f-b7a4-360eb32f80d2.png)
 
 
 
 
 ## Known Bugs
-There might be errors in layout files but the app will still run.
+There might be errors in layout files but the app will still run Depending on the layout file.
 
 ## Copyright
 Tevin Isaac
