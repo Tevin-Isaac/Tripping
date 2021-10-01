@@ -14,10 +14,10 @@ JAVA
 * Generate your own personal google API with Google Cloud Platform
 * Set restrictions on your API and enable it to search for Maps and Places
 
-## Database and API login App screenshots
+## Firebase Database Screenshot
 ![Screenshot from 2021-10-01 11-28-54](https://user-images.githubusercontent.com/81568615/135590665-2fefb218-aab4-42d1-b32f-877a2671ff10.png)
 
-## API
+## API Screenshot
 ![Screenshot from 2021-10-01 11-28-48 (1)](https://user-images.githubusercontent.com/81568615/135590766-8482e901-773e-413f-b7a4-360eb32f80d2.png)
 
 
