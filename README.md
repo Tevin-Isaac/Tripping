@@ -10,7 +10,7 @@ The User can be able to locate a specific location they want to Explore.Google M
 JAVA
 
 ## REQUIREMENTS
-* Create a database project with Database for your User Logins
+* Create a database project with Firebase for your User Logins
 * Generate your own personal google API with Google Cloud Platform
 * Set restrictions on your API and enable it to search for Maps and Places
 
