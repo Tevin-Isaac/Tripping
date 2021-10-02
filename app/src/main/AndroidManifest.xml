@@ -17,6 +17,7 @@
         <activity android:name=".Login"/>
         <activity android:name=".Register"/>
         <activity android:name=".Dashboard"/>
+        <activity android:name=".SplashActivity"/>
         <meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyCsXwChJiMtdWfz74-XJZjmAJhgcCOm1tE"/>
         <activity android:name=".MainActivity"
             android:exported="true">
