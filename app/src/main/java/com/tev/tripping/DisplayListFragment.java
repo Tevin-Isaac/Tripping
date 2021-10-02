@@ -18,7 +18,7 @@ import com.google.android.material.snackbar.Snackbar;
 import java.lang.reflect.Array;
 import java.util.ArrayList;
 
-class DisplayListFragment extends Fragment {
+public class DisplayListFragment extends Fragment {
 
 
     @RequiresApi(api = Build.VERSION_CODES.LOLLIPOP)
