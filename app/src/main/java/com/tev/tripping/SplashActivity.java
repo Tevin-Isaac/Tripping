@@ -20,7 +20,7 @@ public class SplashActivity extends AppCompatActivity {
         setContentView(R.layout.activity_splash);
         getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,
                 WindowManager.LayoutParams.FLAG_FULLSCREEN);
-        lottie=findViewById(R.id.lottie);
+
 //        lottie.animate().translationX(2000).setDuration(2000).setStartDelay(2900);
 
         new Handler().postDelayed(new Runnable() {
@@ -29,7 +29,7 @@ public class SplashActivity extends AppCompatActivity {
                 Intent i=new Intent(SplashActivity.this,
                         MainActivity.class);
                 //Intent is used to switch from one activity to another.
-
+                lottie=findViewById(R.id.lottie);
                 startActivity(i);
                 //invoke the SecondActivity.
 
